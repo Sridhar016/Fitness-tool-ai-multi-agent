@@ -1,0 +1,52 @@
+ExerciseName,BodyPart,Equipment,Target,Difficulty,InjuryRisk,CaloriesBurned,Description
+Running,Cardio,None,Cardiovascular,High,Medium,300,Steady-state running at moderate pace
+Cycling,Cardio,Bike,Cardiovascular,Medium,Low,250,Moderate intensity cycling
+Swimming,Cardio,Pool,Cardiovascular,High,Low,350,Freestyle swimming at moderate pace
+Push-ups,Upper Body,None,Chest,Medium,Medium,100,Standard push-ups with proper form
+Pull-ups,Upper Body,Pull-up Bar,Back,High,High,120,Overhand grip pull-ups
+Squats,Lower Body,None,Quads,Medium,Medium,150,Bodyweight squats with full range of motion
+Lunges,Lower Body,None,Glutes,Medium,Medium,130,Alternating forward lunges
+Plank,Core,None,Abs,Low,Low,80,Forearm plank held for time
+Burpees,Full Body,None,Cardiovascular,High,High,200,Full burpees with jump and push-up
+Resistance Band Rows,Upper Body,Resistance Bands,Back,Low,Low,90,Seated rows with resistance bands
+Dumbbell Curls,Upper Body,Dumbbells,Biceps,Medium,Low,80,Standing dumbbell bicep curls
+Tricep Dips,Upper Body,Parallel Bars,Triceps,Medium,Medium,90,Tricep dips on parallel bars
+Deadlifts,Lower Body,Barbell,Hamstrings,High,High,200,Conventional barbell deadlifts
+Bench Press,Upper Body,Barbell,Chest,High,Medium,150,Standard barbell bench press
+Lat Pulldown,Upper Body,Cable Machine,Back,Medium,Low,110,Wide-grip lat pulldown
+Leg Press,Lower Body,Leg Press Machine,Quads,High,Medium,180,Seated leg press
+Shoulder Press,Upper Body,Dumbbells,Shoulders,Medium,Medium,100,Seated dumbbell shoulder press
+Bicep Curls,Upper Body,Dumbbells,Biceps,Low,Low,70,Standing dumbbell bicep curls
+Tricep Extensions,Upper Body,Dumbbells,Triceps,Medium,Low,80,Overhead dumbbell tricep extensions
+Leg Curls,Lower Body,Machine,Hamstrings,Medium,Low,100,Seated leg curls
+Calf Raises,Lower Body,None,Calves,Low,Low,60,Bodyweight calf raises
+Russian Twists,Core,None,Obliques,Medium,Low,90,Seated Russian twists with feet elevated
+Mountain Climbers,Core,None,Cardiovascular,High,Medium,180,Alternating mountain climbers
+Jumping Jacks,Full Body,None,Cardiovascular,Medium,Medium,150,Standard jumping jacks
+High Knees,Cardio,None,Cardiovascular,Medium,Medium,160,Running in place with high knees
+Side Plank,Core,None,Obliques,Medium,Low,70,Side plank held for time
+Glute Bridges,Lower Body,None,Glutes,Low,Low,80,Bodyweight glute bridges
+Step-ups,Lower Body,Bench,Quads,Medium,Low,120,Alternating step-ups on bench
+Kettlebell Swings,Full Body,Kettlebell,Cardiovascular,High,Medium,200,Standard kettlebell swings
+Battle Ropes,Full Body,Battle Ropes,Cardiovascular,High,Low,250,Alternating battle rope waves
+Box Jumps,Lower Body,Box,Cardiovascular,High,High,220,Explosive box jumps
+Farmer's Walk,Full Body,Dumbbells,Grip,Medium,Low,150,Walking while holding heavy dumbbells
+Hanging Leg Raises,Core,Pull-up Bar,Abs,High,Medium,100,Hanging leg raises for core strength
+Pistol Squats,Lower Body,None,Quads,High,High,140,Single-leg squats
+Handstand Push-ups,Upper Body,None,Shoulders,High,High,130,Inverted push-ups against wall
+Muscle-ups,Upper Body,Pull-up Bar,Back,Very High,High,200,Explosive pull-up to dip transition
+Clean and Jerk,Full Body,Barbell,Explosive,Very High,High,300,Olympic weightlifting movement
+Snatch,Full Body,Barbell,Explosive,Very High,High,320,Olympic weightlifting movement
+Turkish Get-ups,Full Body,Kettlebell,Core,High,Medium,180,Complex full-body movement
+Wind Sprints,Cardio,None,Cardiovascular,High,Medium,250,Short explosive sprints
+Hill Sprints,Cardio,None,Cardiovascular,High,Medium,280,Sprints on inclined surface
+Rowing Machine,Cardio,Rowing Machine,Cardiovascular,High,Low,300,Indoor rowing machine
+Elliptical,Cardio,Elliptical Machine,Cardiovascular,Medium,Low,220,Low-impact cardio machine
+Stair Climber,Cardio,Stair Machine,Cardiovascular,High,Medium,270,Climbing stairs machine
+Jump Rope,Cardio,Jump Rope,Cardiovascular,High,Medium,250,Continuous jumping with rope
+Medicine Ball Slams,Full Body,Medicine Ball,Core,High,Medium,190,Explosive ball slams
+Sled Push,Lower Body,Sled,Cardiovascular,High,Low,280,Pushing weighted sled
+Tire Flips,Full Body,Tire,Explosive,Very High,High,350,Flipping large tires
+Sandbag Carry,Full Body,Sandbag,Grip,High,Low,220,Walking with heavy sandbag
+Prowler Push,Full Body,Prowler,Cardiovascular,Very High,Medium,350,Pushing weighted prowler
+Battling Ropes,Full Body,Battle Ropes,Cardiovascular,High,Low,260,Various rope exercises
